@@ -1,5 +1,7 @@
 # proxmark3: the official Proxmark repository!
 
+## :warning: This repository has been archived. It is no longer maintained. Active development has moved over to [RRG Proxmark3 - Iceman Fork](https://github.com/RfidResearchGroup/proxmark3)
+
 The proxmark3 is a powerful general purpose RFID tool, the size of a deck
 of cards, designed to snoop, listen and emulate everything from
 **Low Frequency (125kHz)** to **High Frequency (13.56MHz)** tags.
@@ -17,7 +19,7 @@ do something useful with a proxmark3.
 * The IRC channel: irc.freenode.org #proxmark3 ([chat in your browser](http://webchat.freenode.net/?channels=#proxmark3))
 * [The Homebrew formula repository](https://github.com/Proxmark/homebrew-proxmark3)
 * [Proxmark3 community discord server](https://discord.gg/86VcRtS)
-   
+
 ## Development
 
 The tools required to build  or run the project will vary depending on
@@ -37,7 +39,7 @@ following locations:
 | [RFxSecure](http://www.rfxsecure.com/)       | CN                 | SG              |
 | [Sneaktechnology](https://www.sneaktechnology.com/)  | CN                 | CN              |
 
-   
+
 Most of the ultra-low-volume contract assemblers could put
 something like this together with a reasonable yield. A run of around
 a dozen units is probably cost-effective. The BOM includes (possibly-
